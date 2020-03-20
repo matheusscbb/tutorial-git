@@ -1,5 +1,5 @@
 # ignora todos arquivos .txt
-*.txt
+# *.txt
 
 # ignora a pasta node_modules
 node_modules/
